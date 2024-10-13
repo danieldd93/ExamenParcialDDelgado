@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamenParcialDelgado</string>
+    <string name="titleSignUp">Iniciar Sesión</string>
+    <string name="txtemail">Email</string>
+    <string name="txtpass">Password</string>
+    <string name="btnIngresar">Ingresar</string>
+</resources>
